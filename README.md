@@ -6,3 +6,4 @@
 # Variables
 - basic var
 - define
+- global
