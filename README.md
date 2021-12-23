@@ -20,3 +20,9 @@
 
 # Comparison
 ![CHEESE!](comp.jpg)
+
+# Logical Operators
+- and    : true if x and y true
+- or    : true if x or y true
+- xor    : true if x or y true,but not both
+- !     : true if x is not true
