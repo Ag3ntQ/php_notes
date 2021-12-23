@@ -46,7 +46,9 @@
 - $i=0;do {echo "Hai";}while ($i <0);
 
 # Switch [ switch ]
-
-
+ 
+#  Include
+- like python import 
+- php include 'header.php';
 
 
