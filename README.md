@@ -18,5 +18,5 @@
 - Boolean
 - x++ and x--
 
-# Comparisond
+# Comparison
 ![CHEESE!](comp.jpg)
