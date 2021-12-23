@@ -36,4 +36,9 @@
 - $people = array("David"=>"27", "Amy"=>"21", "John"=>"42");
 - $people['Amy'] = "21";
 
+# Conditions [ifelse]
+- if (condition){---} else {---}
+- elif = elseif
+- elseif (conditions)
+
 
