@@ -1,2 +1,4 @@
-# php_note
-PHP notes :)
+# php_notes
+
+# Echo 1
+- echo
