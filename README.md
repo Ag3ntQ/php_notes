@@ -41,4 +41,8 @@
 - elif = elseif
 - elseif (conditions)
 
+# while loop [ while ]
+- The do...while loop will always execute the block of code once, check the condition, and repeat the loop as long as the specified condition is true
+- $i=0;do {echo "Hai";}while ($i <0);
+
 
