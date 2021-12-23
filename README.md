@@ -1,9 +1,9 @@
 # php_notes
 
-# Echo 1
+# Echo [ echo ]
 - echo
 
-# Variables
+# Variables  [ var ]
 - basic var
 - define
 - global
