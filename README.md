@@ -58,4 +58,7 @@
 - When using default arguments, any defaults should be on the right side of any non-default arguments; otherwise, things will not work as expected
 - function num($a=10) :- if in num parameter not passed, it defaultly take $a=10
 
-
+# $_SERVER
+- $_SERVER is an array that includes information such as headers, paths, and script locations. The entries in this array are created by the web server.
+$_SERVER['SCRIPT_NAME'] returns the path of the current script:
+- :- file name = index.php then,$_SERVER['SCRIPT_NAME'] == index.php
