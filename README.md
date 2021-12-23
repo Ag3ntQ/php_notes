@@ -61,4 +61,6 @@
 # $_SERVER
 - $_SERVER is an array that includes information such as headers, paths, and script locations. The entries in this array are created by the web server.
 $_SERVER['SCRIPT_NAME'] returns the path of the current script:
-- :- file name = index.php then,$_SERVER['SCRIPT_NAME'] == index.php
+- eg:  file name = index.php then,$_SERVER['SCRIPT_NAME'] == index.php
+- $_SERVER['HTTP_HOST'] returns the Host header from the current request.
+![CHEESE!](server.jpg)
