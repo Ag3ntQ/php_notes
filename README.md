@@ -51,4 +51,11 @@
 - like python import 
 - php include 'header.php';
 
+# forloop
+- for (--;--;--){-----}
+
+# function
+- When using default arguments, any defaults should be on the right side of any non-default arguments; otherwise, things will not work as expected
+- function num($a=10) :- if in num parameter not passed, it defaultly take $a=10
+
 
